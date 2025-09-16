@@ -1,0 +1,11 @@
+{
+	"title": "SuperCompany Ltd.",
+	"pages": [
+		{ "title": "Home", "content": "<p>Content</p>" },
+		{ "title": "About us", "content": "<p>We are a great company</p>" },
+		{
+			"title": "Ordering",
+			"content": "<p>To order, contact us at <tel>+36-1-000-0000</tel></p>"
+		}
+	]
+}
